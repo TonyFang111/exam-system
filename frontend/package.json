@@ -1,0 +1,1 @@
+{"name": "exam-system-frontend","version": "1.0.0","private": true,"scripts": {"serve": "vue-cli-service serve","build": "vue-cli-service build"},"dependencies": {"vue": "^3.2.0","element-plus": "^2.2.22","axios": "^1.6.5"},"devDependencies": {"@vue/cli-service": "^5.0.0"}}
